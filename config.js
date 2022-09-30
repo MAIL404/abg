@@ -16,7 +16,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'NezukoTachibana281207'
+  'https://api.xteam.xyz': 'd2d5ef3c017f4ef9'
 }
 
 // Wm untuk stiker dan autobio
